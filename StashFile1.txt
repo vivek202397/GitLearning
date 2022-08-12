@@ -1,2 +1,7 @@
 my name is khan 
-add somethig
+
+add somethig i am fie
+=======
+write somethig
+
+
