@@ -1,7 +1,12 @@
 my name is khan 
+<<<<<<< Updated upstream
 
 add somethig i am fie
 =======
 write somethig
 
 
+=======
+write somethig
+
+>>>>>>> Stashed changes
